@@ -1,2 +1,2 @@
-# Lab3_TransferFunction_Modelling_ECE425_Group8_ME-4212
+# Lab3_TransferFunction_Modelling_ECE425_Group6_ME-4212
 
